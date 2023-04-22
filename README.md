@@ -1,5 +1,5 @@
 # GRL_Regional-Periodicity
-This repository is an open source for the GRL paper: Regional Features of the1 20-30 Day Periodic Behavior in the Southern Hemisphere Circulation
+This repository is an open source for the GRL paper: Regional Features of the 20-30 Day Periodic Behavior in the Southern Hemisphere Circulation
 
 
 This repository includes three codes associated with several numpy data to reproduce figure 1 to figure 4 
