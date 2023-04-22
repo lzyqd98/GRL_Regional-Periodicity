@@ -18,4 +18,4 @@ syn_EKE.npy, syn_LWA_Z.npy, syn_LWA.npy, syn_VT.npy are the 37 year DJF averaged
 freq1.np contains the frequency domain.
 
 3. figrue3.np is to plot the cross-section power spectra of different variables.
-Using the same freq1 and lon and lat, we will use LWA_spectra_45S and 55S.npy to plot the cross section.
+Using the same freq1 and lon and lat, we will use LWA_spectra_45S and 55S.npy to plot the cross section of QGPV-based LWA.
